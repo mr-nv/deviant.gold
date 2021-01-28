@@ -1,0 +1,5 @@
+﻿  Создание кода
+d:\multipurpose\loader\deviantloader\protection.cpp(158): warning C4715: Protection::IsDebug: значение возвращается не при всех путях выполнения
+  All 781 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  DeviantLoader.vcxproj -> D:\multipurpose\loader\Release\DeviantLoader.exe

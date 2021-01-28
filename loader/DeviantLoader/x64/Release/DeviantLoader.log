@@ -1,0 +1,8 @@
+﻿  DeviantLoader.cpp
+d:\multipurpose\loader\deviantloader\deviantloader.cpp(68): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "stdafx.h"" в источник.
+  Injector.cpp
+d:\multipurpose\loader\deviantloader\injector.cpp(54): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "stdafx.h"" в источник.
+  md5.cpp
+d:\multipurpose\loader\deviantloader\md5.cpp(334): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "stdafx.h"" в источник.
+  Protection.cpp
+d:\multipurpose\loader\deviantloader\protection.cpp(450): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "stdafx.h"" в источник.
